@@ -1,0 +1,19 @@
+INFO 2023-03-22 09:29:49,849 main 48 - ------------------AI APP Started---------------------
+INFO 2023-03-22 09:29:49,849 main 49 - Company Name: Jamfast
+INFO 2023-03-22 09:29:49,849 main 50 - Store Name: Keizer Store
+INFO 2023-03-22 09:30:23,918 main 370 - ------------------AI APP STOP--------------------
+INFO 2023-03-22 09:30:23,918 main 371 - elapsed time: 28.66
+INFO 2023-03-22 09:30:23,918 main 372 - approx. FPS: 1.33
+INFO 2023-03-22 09:30:23,918 main 373 - Program Ending
+INFO 2023-03-22 09:32:29,649 main 48 - ------------------AI APP Started---------------------
+INFO 2023-03-22 09:32:29,649 main 49 - Company Name: Jamfast
+INFO 2023-03-22 09:32:29,649 main 50 - Store Name: Keizer Store
+INFO 2023-03-22 23:00:50,896 main 48 - ------------------AI APP Started---------------------
+INFO 2023-03-22 23:00:50,896 main 49 - Company Name: Jamfast
+INFO 2023-03-22 23:00:50,896 main 50 - Store Name: Keizer Store
+DEBUG 2023-03-22 23:16:34,625 main 218 - Current Exiting List {2: '20230322230927'}
+DEBUG 2023-03-22 23:16:34,635 main 218 - Current Exiting List {2: '20230322230927', 7: '20230322231612'}
+INFO 2023-03-22 23:17:41,112 main 370 - ------------------AI APP STOP--------------------
+INFO 2023-03-22 23:17:41,112 main 371 - elapsed time: 1004.88
+INFO 2023-03-22 23:17:41,112 main 372 - approx. FPS: 0.67
+INFO 2023-03-22 23:17:41,112 main 373 - Program Ending
